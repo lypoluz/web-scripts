@@ -1,0 +1,8 @@
+@-moz-document regexp("https:\\/\\/www.wanikani.com\\/subject-lessons[^#]*#composition") {
+    .character-header__meaning {
+        color: #0000;
+    }
+    .character-header__meaning:hover {
+        color: inherit;
+    }
+}
