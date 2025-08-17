@@ -1,2 +1,2 @@
 # web-scripts
-scripts for tempermonkey and stylus
+scripts for tampermonkey and stylus
