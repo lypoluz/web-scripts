@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Increase font size for specific usernames in Twitch chat.
-// @author       lypoluz
+// @author       lypoluz (Dominik Potulski)
 // @match        *://*.twitch.tv/*
 // @grant        none
 // @run-at       document-end
