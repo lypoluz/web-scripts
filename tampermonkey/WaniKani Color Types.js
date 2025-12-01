@@ -3,7 +3,7 @@
 // @description  Nice Colors for WaniKani types in dark mode!
 // @namespace    http://tampermonkey.net/
 // @version      2025-05-08
-// @author       Dominik Potulski
+// @author       Lypoluz (Dominik Potulski)
 // @match        https://www.wanikani.com/subjects/review*
 // @match        https://www.wanikani.com/subjects/extra_study*
 // @match        https://www.wanikani.com/subject-lessons*
